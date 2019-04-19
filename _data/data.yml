@@ -1,0 +1,33 @@
+intro:
+    name: Cliswin
+    desc: 
+    avatar:
+        display: true
+        path: profile.png # 头像
+social:
+    linkedin:
+    github: cliswin.github.io
+    gitlab: 
+    bitbucket: 
+    twitter: cliswin
+    stackoverflow:
+    codewars: 
+    goodreads: 
+    weibo: cliswin
+    
+links:
+    - name: Blog
+      url: https://blog.cliswin.com
+
+    - name: Resume
+      url: https://resume.cliswin.com 
+      
+    
+
+about: |
+    And never have I felt so deeply at one and the same time so detached from myself and so present in the world. 
+
+projects:
+    - name:
+      link:
+      details: |

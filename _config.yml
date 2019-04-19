@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+title: Cliswin 
+email: cliswin@gmail.com 
+url: https://cliswin.com
+description: >
+  cliswin's homepage.
+
+sass:
+    style: compressed
+data_dir: _data
+
+whitelist: []
+plugins: []
+
+# Outputting
+permalink: date
+timezone: Asia/Shanghai
+
+# Custom Values
+lang: en
+force_https: true
+date_format: "%Y-%m-%d"
+google_analytics:
+color:
+    theme: "#42A8C0 !default"
+    text: "#34495e !default"
+    background: "#fdfdfd !default"

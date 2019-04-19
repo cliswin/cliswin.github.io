@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign links = site.data.data.links %}
+<nav class="links">
+
+    {% for link in links %}
+        <a class="link" href="{{ link.url }}">{{ link.name }}</a>
+    {% endfor %}
+
+</nav>
