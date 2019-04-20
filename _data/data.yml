@@ -1,33 +1,39 @@
 intro:
-    name: Cliswin
-    desc: 
+    name: cliswin
+    desc: Programmer
     avatar:
         display: true
-        path: profile.png # 头像
+        path: profile.png
 social:
     linkedin:
     github: cliswin
     gitlab: 
     bitbucket: 
-    twitter:
+    twitter: 
     stackoverflow:
     codewars: 
     goodreads: 
-    weibo:
+    weibo: 
     
 links:
     - name: Blog
       url: https://blog.cliswin.com
-
+    - name: About
+      url: /about
+    - name: Projects
+      url: /projects
     - name: Resume
-      url: https://resume.cliswin.com 
-      
-    
+      url: https://resume.cliswin.com
 
 about: |
-    And never have I felt so deeply at one and the same time so detached from myself and so present in the world. 
+    A man.
+
+    Living in Nanjing, China.
+
+    Using Java / Git / Python, etc.
 
 projects:
-    - name:
-      link:
+    - name: Online Resume
+      link: https://github.com/cliswin/resume
       details: |
+        Yet another resume template based on jekyll. You can wirte your resume using markdown, it will be rendered into html and can be printed as pdf. [Demo](https://cliswin.github.io/resume)
