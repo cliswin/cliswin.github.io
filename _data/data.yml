@@ -6,14 +6,14 @@ intro:
         path: profile.png # 头像
 social:
     linkedin:
-    github: cliswin.github.io
+    github: cliswin
     gitlab: 
     bitbucket: 
-    twitter: cliswin
+    twitter:
     stackoverflow:
     codewars: 
     goodreads: 
-    weibo: cliswin
+    weibo:
     
 links:
     - name: Blog
