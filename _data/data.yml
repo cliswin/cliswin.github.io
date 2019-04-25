@@ -18,12 +18,13 @@ social:
 links:
     - name: Blog
       url: https://blog.cliswin.com
+    - name: Resume
+      url: https://resume.cliswin.com
     - name: About
       url: /about
     # - name: Projects
     #  url: /projects
-    - name: Resume
-      url: https://resume.cliswin.com
+    
 
 about: |
     And never have I felt so deeply at one and the same time so detached from myself and so present in the world. 
