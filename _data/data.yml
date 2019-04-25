@@ -20,20 +20,16 @@ links:
       url: https://blog.cliswin.com
     - name: About
       url: /about
-    - name: Projects
-      url: /projects
+    # - name: Projects
+    #  url: /projects
     - name: Resume
       url: https://resume.cliswin.com
 
 about: |
-    A man.
+    And never have I felt so deeply at one and the same time so detached from myself and so present in the world. 
 
-    Living in Nanjing, China.
-
-    Using Java / Git / Python, etc.
-
-projects:
-    - name: Online Resume
-      link: https://github.com/cliswin/resume
-      details: |
-        Yet another resume template based on jekyll. You can wirte your resume using markdown, it will be rendered into html and can be printed as pdf. [Demo](https://cliswin.github.io/resume)
+# projects:
+    #- name: Online Resume
+    #  link: https://github.com/cliswin/resume
+    #  details: |
+    #    Yet another resume template based on jekyll. You can wirte your resume using markdown, it will be rendered into html and can be printed as pdf. [Demo](https://cliswin.github.io/resume)
